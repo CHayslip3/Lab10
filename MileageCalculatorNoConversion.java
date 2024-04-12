@@ -2,9 +2,10 @@
  * File: csci1302/ch16/MileageCalculator.java
  * Package: ch16
  * @author Christopher Williams
+ * Edited by: Rachael Caropreso, Charles Hayslip, Wilson Tran
  * Created on: Apr 12, 2017
- * Last Modified: Apr 15, 2019
- * Description:  
+ * Last Modified: Apr 12, 2024
+ * Description:  Use combo buttons in mpg and kpl calculator
  */
 package Lab10;
 
